@@ -38,4 +38,3 @@ Sumber publikasi: branch `main`, folder `/ (root)`, melalui **Settings → Pages
 
 Kontak, jam operasional, lokasi, dan harga masing-masing unit menunggu data terverifikasi dari pengurus. Perbarui objek `unitDetails` di awal `script.js` dan bagian informasi pada `index.html` ketika data tersedia. Foto kategori merupakan ilustrasi layanan.
 
-Panduan demonstrasi dan pemetaan kriteria penilaian tersedia di [PANDUAN-PRESENTASI.md](PANDUAN-PRESENTASI.md).
